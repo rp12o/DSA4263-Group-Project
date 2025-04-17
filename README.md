@@ -38,7 +38,7 @@ However, due to GitHub's file size limitations, the raw dataset is **not include
 
 Please download the dataset manually using the link below:
 
-👉 [Download from Google Drive](https://drive.google.com/your-shareable-link-here)
+👉 [Download from Google Drive]([https://drive.google.com/your-shareable-link-here](https://drive.google.com/file/d/1gZ15NYGJuNbc6Q5GTkmLKTmNKj0Gso5y/view?usp=sharing))
 
 After downloading:
 
